@@ -1,0 +1,10 @@
+#container {
+    margin: 30px 15% 40px 15%;
+    width: calc(70% - 80px);
+    min-width: calc(686px - 80px);
+    color: #000;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgba(255, 255, 255, 0.95);
+    padding: 20px 40px;
+	border-radius: 4px;
+}
